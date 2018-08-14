@@ -1,0 +1,26 @@
+{
+  "name": "mongo-associations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlizchap/mongo-associations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlizchap/mongo-associations/issues"
+  },
+  "homepage": "https://github.com/mlizchap/mongo-associations#readme",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "mongoose": "^5.1.6"
+  }
+}
